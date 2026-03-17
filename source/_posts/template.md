@@ -1,5 +1,5 @@
 ---
-title: 博客模板：表格、图片、代码、公式、嵌入等要素完整示例
+title: template
 date: 2026-03-18 21:30:00
 tags:
   - 模板
@@ -7,8 +7,6 @@ tags:
   - Hexo
 categories:
   - 博客写作
-index_img: /img/sample-cover.png
-banner_img: /img/sample-banner.png
 math: true
 ---
 
