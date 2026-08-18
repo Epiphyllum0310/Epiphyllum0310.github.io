@@ -3,8 +3,9 @@ title: 嵌入式C++：寄存器、Memory-Mapped I/O、Input/Output MODER
 date: 2026-08-13 11:00:00
 tags:
   - 嵌入式
-  - C++
-  - STM32
+  - Memory-Mapped I/O
+  - MODER
+  - 寄存器
 categories:
   - 求职学习
 math: true
